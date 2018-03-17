@@ -1,0 +1,30 @@
+.top {
+    height: 500px;
+}
+
+.top-left {
+    width: 800px;
+    height: 500px;
+    float: left;
+}
+
+.top-right {
+    width: 399px;
+    height: 500px;
+    float: left;
+    /* padding: 20px 0 0 20px; */
+    color: #777;
+    font-size: 18px;
+}
+.protocol{
+    height: 500px;
+    overflow: auto;
+}
+.zfb,.wx{
+    float: left;
+    width: 500px;
+
+}
+.my-btn{
+    height: 100px;
+}

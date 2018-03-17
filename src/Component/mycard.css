@@ -1,0 +1,37 @@
+.wrap {
+    height: 464px;
+    width: 366px;
+    /* background-color: royalblue; */
+    display: inline-block;
+    border: 1px dashed #dcdcdc;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.wrap:hover img {
+    border-radius: 180px;
+    border: #9E9E9E solid 10px;
+}
+
+.img {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.img>img {
+    border-radius: 180px;
+    border: #dcdcdc solid 10px;
+}
+.c-title{
+    text-align: center;
+    font-size: 24px;
+    color: #555555;
+    font-weight: 600;
+}
+.c-body{
+    font-size: 14px;
+    line-height: 24px;
+    color: #999999;
+}
+
